@@ -1,1 +1,10 @@
+# really important to ignore them right away!
+
+# ignore this file specifically
 secrets
+
+# ignore this entire folder
+css/
+
+# ignore these files with this type of extension
+*.sqlite
